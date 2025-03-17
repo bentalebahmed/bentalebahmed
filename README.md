@@ -4,11 +4,14 @@
 - Computer Enginer; Love that R&D :construction_worker:</br>
 - Unity3D, XR, Embedded and Electronics; You got me :boom:</br>
 
-  #### Got somthing in mind :question: Let's talk :wave: </br>
+### Got something in mind :question: Let's talk :wave: </br>
+
+### While waiting for thoughts 💭, check out my latest work 🚀 </br>
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=bentalebahmed&repo=BlueUnity&theme=dark&bg_color=00000000&text_color=ffffff)](https://github.com/bentalebahmed/BlueUnity)
 
 <br><br>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -29,7 +32,7 @@
 </p>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=bentalebahmed&theme=transparent&hide_border=false&include_all_commits=true&count_private=false"/>
@@ -41,8 +44,8 @@
 </div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ben.studio33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-bentaleb/) 
+## 🌐 Contact
+[![Email](https://img.shields.io/badge/ben.studio33@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ben.studio33@gmail.com)  <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ben.studio33) --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-bentaleb/) 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/bentalebahmed/bentalebahmed/output/snake.svg" alt="Snake animation" />
