@@ -7,7 +7,7 @@
 ### Got something in mind :question: Let's talk :wave: </br>
 
 ### While waiting for thoughts 💭, check out my latest work 🚀 </br>
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=bentalebahmed&repo=BlueUnity&theme=dark&bg_color=00000000&text_color=ffffff)](github.com/bentalebahmed/BlueUnity)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=bentalebahmed&repo=BlueUnity&theme=dark&bg_color=00000000&text_color=ffffff&cache_seconds=60)](https://github.com/bentalebahmed/BlueUnity)
 
 <br><br>
 
