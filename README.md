@@ -48,5 +48,5 @@
 [![Email](https://img.shields.io/badge/ben.studio33@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ben.studio33@gmail.com)  <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ben.studio33) --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-bentaleb/) 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/bentalebahmed/bentalebahmed/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bentalebahmed/bentalebahmed/output/snake.svg" alt="Snake Animation" />
 </div>
