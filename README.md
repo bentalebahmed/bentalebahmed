@@ -38,7 +38,7 @@
 # 📊 GitHub Stats
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=bentalebahmed&theme=transparent&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bentalebahmed&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=60"/>
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=bentalebahmed&theme=transparent&hide_border=false"/>
 
