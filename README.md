@@ -34,19 +34,6 @@
   <img src="https://img.shields.io/badge/-librecad-8DDA01?style=for-the-badge&logo=MATLAB&logoColor=white"/>
 </p>
 
-
-# 📊 GitHub Stats
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=bentalebahmed&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=60"/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bentalebahmed&theme=transparent&hide_border=false"/>
-
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentalebahmed&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/> -->
-
-</div>
-
-
 ## 🌐 Contact
 [![Email](https://img.shields.io/badge/ben.studio33@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ben.studio33@gmail.com)  <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ben.studio33) --> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-bentaleb/) 
 
