@@ -7,9 +7,21 @@
 ### Got something in mind :question: Let's talk :wave: </br>
 
 ### While waiting for thoughts 💭, check out my latest work 🚀 </br>
-<a href="https://github.com/bentalebahmed/BlueUnity/tree/Kotlin-version">
-  <img src="https://img.shields.io/badge/BlueUnity-Kotlin--version-0d1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/bentalebahmed/BlueUnity/tree/Kotlin-version">
+        <img src="https://img.shields.io/badge/BlueUnity-0d1117?style=for-the-badge&logo=android&logoColor=white"><br/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bentalebahmed/Oasis">
+        <img src="https://img.shields.io/badge/Oasis-0d1117?style=for-the-badge&logo=unity&logoColor=white"><br/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br><br>
 
